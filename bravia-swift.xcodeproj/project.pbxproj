@@ -7,6 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F3AE28E25D4E8E200419796 /* Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE28D25D4E8E200419796 /* Controller.swift */; };
+		3F3AE28F25D4E94000419796 /* Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE28D25D4E8E200419796 /* Controller.swift */; };
+		3F3AE29125D4E97100419796 /* Source.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29025D4E97100419796 /* Source.swift */; };
+		3F3AE29225D4E97100419796 /* Source.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29025D4E97100419796 /* Source.swift */; };
+		3F3AE29425D4E9A500419796 /* StatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29325D4E9A500419796 /* StatusBar.swift */; };
+		3F3AE29525D4E9A500419796 /* StatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29325D4E9A500419796 /* StatusBar.swift */; };
+		3F3AE29725D4E9B500419796 /* SystemInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29625D4E9B500419796 /* SystemInfo.swift */; };
+		3F3AE29825D4E9B500419796 /* SystemInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29625D4E9B500419796 /* SystemInfo.swift */; };
+		3F3AE29A25D4E9EE00419796 /* IPControll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29925D4E9EE00419796 /* IPControll.swift */; };
+		3F3AE29B25D4E9EE00419796 /* IPControll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29925D4E9EE00419796 /* IPControll.swift */; };
+		3F3AE29D25D4EACB00419796 /* Volume.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29C25D4EACB00419796 /* Volume.swift */; };
+		3F3AE29E25D4EACB00419796 /* Volume.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29C25D4EACB00419796 /* Volume.swift */; };
+		3F3AE2A025D4EADD00419796 /* SystemInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29F25D4EADD00419796 /* SystemInfo.swift */; };
+		3F3AE2A125D4EADD00419796 /* SystemInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29F25D4EADD00419796 /* SystemInfo.swift */; };
+		3F3AE2A325D4EB0800419796 /* Source.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE2A225D4EB0800419796 /* Source.swift */; };
+		3F3AE2A425D4EB0800419796 /* Source.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE2A225D4EB0800419796 /* Source.swift */; };
 		3F6333C525CE03560028F8D3 /* bravia_swiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6333B225CE03550028F8D3 /* bravia_swiftApp.swift */; };
 		3F6333C625CE03560028F8D3 /* bravia_swiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6333B225CE03550028F8D3 /* bravia_swiftApp.swift */; };
 		3F6333C725CE03560028F8D3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6333B325CE03550028F8D3 /* ContentView.swift */; };
@@ -16,6 +32,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F3AE28D25D4E8E200419796 /* Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Controller.swift; sourceTree = "<group>"; };
+		3F3AE29025D4E97100419796 /* Source.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Source.swift; sourceTree = "<group>"; };
+		3F3AE29325D4E9A500419796 /* StatusBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusBar.swift; sourceTree = "<group>"; };
+		3F3AE29625D4E9B500419796 /* SystemInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemInfo.swift; sourceTree = "<group>"; };
+		3F3AE29925D4E9EE00419796 /* IPControll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPControll.swift; sourceTree = "<group>"; };
+		3F3AE29C25D4EACB00419796 /* Volume.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volume.swift; sourceTree = "<group>"; };
+		3F3AE29F25D4EADD00419796 /* SystemInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemInfo.swift; sourceTree = "<group>"; };
+		3F3AE2A225D4EB0800419796 /* Source.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Source.swift; sourceTree = "<group>"; };
 		3F6333B225CE03550028F8D3 /* bravia_swiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bravia_swiftApp.swift; sourceTree = "<group>"; };
 		3F6333B325CE03550028F8D3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3F6333B425CE03560028F8D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -58,8 +82,11 @@
 			isa = PBXGroup;
 			children = (
 				3F6333B225CE03550028F8D3 /* bravia_swiftApp.swift */,
-				3F6333B325CE03550028F8D3 /* ContentView.swift */,
 				3F6333B425CE03560028F8D3 /* Assets.xcassets */,
+				3F90598A25CE088C00241C7C /* Model */,
+				3F90598925CE088700241C7C /* ViewModel */,
+				3F90598825CE087C00241C7C /* View */,
+				3F6333B325CE03550028F8D3 /* ContentView.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -88,6 +115,35 @@
 				3F6333C425CE03560028F8D3 /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		3F90598825CE087C00241C7C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3F3AE28D25D4E8E200419796 /* Controller.swift */,
+				3F3AE29025D4E97100419796 /* Source.swift */,
+				3F3AE29325D4E9A500419796 /* StatusBar.swift */,
+				3F3AE29625D4E9B500419796 /* SystemInfo.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3F90598925CE088700241C7C /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				3F3AE29925D4E9EE00419796 /* IPControll.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		3F90598A25CE088C00241C7C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3F3AE29C25D4EACB00419796 /* Volume.swift */,
+				3F3AE29F25D4EADD00419796 /* SystemInfo.swift */,
+				3F3AE2A225D4EB0800419796 /* Source.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -187,8 +243,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F3AE29425D4E9A500419796 /* StatusBar.swift in Sources */,
+				3F3AE2A025D4EADD00419796 /* SystemInfo.swift in Sources */,
+				3F3AE28E25D4E8E200419796 /* Controller.swift in Sources */,
 				3F6333C725CE03560028F8D3 /* ContentView.swift in Sources */,
+				3F3AE29125D4E97100419796 /* Source.swift in Sources */,
+				3F3AE29A25D4E9EE00419796 /* IPControll.swift in Sources */,
+				3F3AE29725D4E9B500419796 /* SystemInfo.swift in Sources */,
 				3F6333C525CE03560028F8D3 /* bravia_swiftApp.swift in Sources */,
+				3F3AE2A325D4EB0800419796 /* Source.swift in Sources */,
+				3F3AE29D25D4EACB00419796 /* Volume.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,8 +260,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F3AE29525D4E9A500419796 /* StatusBar.swift in Sources */,
+				3F3AE2A125D4EADD00419796 /* SystemInfo.swift in Sources */,
+				3F3AE28F25D4E94000419796 /* Controller.swift in Sources */,
 				3F6333C825CE03560028F8D3 /* ContentView.swift in Sources */,
+				3F3AE29225D4E97100419796 /* Source.swift in Sources */,
+				3F3AE29B25D4E9EE00419796 /* IPControll.swift in Sources */,
+				3F3AE29825D4E9B500419796 /* SystemInfo.swift in Sources */,
 				3F6333C625CE03560028F8D3 /* bravia_swiftApp.swift in Sources */,
+				3F3AE2A425D4EB0800419796 /* Source.swift in Sources */,
+				3F3AE29E25D4EACB00419796 /* Volume.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
