@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3F3AE28E25D4E8E200419796 /* Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE28D25D4E8E200419796 /* Controller.swift */; };
-		3F3AE28F25D4E94000419796 /* Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE28D25D4E8E200419796 /* Controller.swift */; };
-		3F3AE29125D4E97100419796 /* Source.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29025D4E97100419796 /* Source.swift */; };
-		3F3AE29225D4E97100419796 /* Source.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29025D4E97100419796 /* Source.swift */; };
-		3F3AE29425D4E9A500419796 /* StatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29325D4E9A500419796 /* StatusBar.swift */; };
-		3F3AE29525D4E9A500419796 /* StatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29325D4E9A500419796 /* StatusBar.swift */; };
-		3F3AE29725D4E9B500419796 /* SystemInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29625D4E9B500419796 /* SystemInfo.swift */; };
-		3F3AE29825D4E9B500419796 /* SystemInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29625D4E9B500419796 /* SystemInfo.swift */; };
+		3F3AE28E25D4E8E200419796 /* ControllerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE28D25D4E8E200419796 /* ControllerView.swift */; };
+		3F3AE28F25D4E94000419796 /* ControllerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE28D25D4E8E200419796 /* ControllerView.swift */; };
+		3F3AE29125D4E97100419796 /* SourceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29025D4E97100419796 /* SourceView.swift */; };
+		3F3AE29225D4E97100419796 /* SourceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29025D4E97100419796 /* SourceView.swift */; };
+		3F3AE29425D4E9A500419796 /* StatusBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29325D4E9A500419796 /* StatusBarView.swift */; };
+		3F3AE29525D4E9A500419796 /* StatusBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29325D4E9A500419796 /* StatusBarView.swift */; };
+		3F3AE29725D4E9B500419796 /* SystemInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29625D4E9B500419796 /* SystemInfoView.swift */; };
+		3F3AE29825D4E9B500419796 /* SystemInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29625D4E9B500419796 /* SystemInfoView.swift */; };
 		3F3AE29A25D4E9EE00419796 /* IPControll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29925D4E9EE00419796 /* IPControll.swift */; };
 		3F3AE29B25D4E9EE00419796 /* IPControll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29925D4E9EE00419796 /* IPControll.swift */; };
 		3F3AE29D25D4EACB00419796 /* Volume.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AE29C25D4EACB00419796 /* Volume.swift */; };
@@ -32,10 +32,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3F3AE28D25D4E8E200419796 /* Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Controller.swift; sourceTree = "<group>"; };
-		3F3AE29025D4E97100419796 /* Source.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Source.swift; sourceTree = "<group>"; };
-		3F3AE29325D4E9A500419796 /* StatusBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusBar.swift; sourceTree = "<group>"; };
-		3F3AE29625D4E9B500419796 /* SystemInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemInfo.swift; sourceTree = "<group>"; };
+		3F3AE28D25D4E8E200419796 /* ControllerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllerView.swift; sourceTree = "<group>"; };
+		3F3AE29025D4E97100419796 /* SourceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceView.swift; sourceTree = "<group>"; };
+		3F3AE29325D4E9A500419796 /* StatusBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusBarView.swift; sourceTree = "<group>"; };
+		3F3AE29625D4E9B500419796 /* SystemInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemInfoView.swift; sourceTree = "<group>"; };
 		3F3AE29925D4E9EE00419796 /* IPControll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPControll.swift; sourceTree = "<group>"; };
 		3F3AE29C25D4EACB00419796 /* Volume.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volume.swift; sourceTree = "<group>"; };
 		3F3AE29F25D4EADD00419796 /* SystemInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemInfo.swift; sourceTree = "<group>"; };
@@ -120,10 +120,10 @@
 		3F90598825CE087C00241C7C /* View */ = {
 			isa = PBXGroup;
 			children = (
-				3F3AE28D25D4E8E200419796 /* Controller.swift */,
-				3F3AE29025D4E97100419796 /* Source.swift */,
-				3F3AE29325D4E9A500419796 /* StatusBar.swift */,
-				3F3AE29625D4E9B500419796 /* SystemInfo.swift */,
+				3F3AE29325D4E9A500419796 /* StatusBarView.swift */,
+				3F3AE29025D4E97100419796 /* SourceView.swift */,
+				3F3AE28D25D4E8E200419796 /* ControllerView.swift */,
+				3F3AE29625D4E9B500419796 /* SystemInfoView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -243,13 +243,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F3AE29425D4E9A500419796 /* StatusBar.swift in Sources */,
+				3F3AE29425D4E9A500419796 /* StatusBarView.swift in Sources */,
 				3F3AE2A025D4EADD00419796 /* SystemInfo.swift in Sources */,
-				3F3AE28E25D4E8E200419796 /* Controller.swift in Sources */,
+				3F3AE28E25D4E8E200419796 /* ControllerView.swift in Sources */,
 				3F6333C725CE03560028F8D3 /* ContentView.swift in Sources */,
-				3F3AE29125D4E97100419796 /* Source.swift in Sources */,
+				3F3AE29125D4E97100419796 /* SourceView.swift in Sources */,
 				3F3AE29A25D4E9EE00419796 /* IPControll.swift in Sources */,
-				3F3AE29725D4E9B500419796 /* SystemInfo.swift in Sources */,
+				3F3AE29725D4E9B500419796 /* SystemInfoView.swift in Sources */,
 				3F6333C525CE03560028F8D3 /* bravia_swiftApp.swift in Sources */,
 				3F3AE2A325D4EB0800419796 /* Source.swift in Sources */,
 				3F3AE29D25D4EACB00419796 /* Volume.swift in Sources */,
@@ -260,13 +260,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F3AE29525D4E9A500419796 /* StatusBar.swift in Sources */,
+				3F3AE29525D4E9A500419796 /* StatusBarView.swift in Sources */,
 				3F3AE2A125D4EADD00419796 /* SystemInfo.swift in Sources */,
-				3F3AE28F25D4E94000419796 /* Controller.swift in Sources */,
+				3F3AE28F25D4E94000419796 /* ControllerView.swift in Sources */,
 				3F6333C825CE03560028F8D3 /* ContentView.swift in Sources */,
-				3F3AE29225D4E97100419796 /* Source.swift in Sources */,
+				3F3AE29225D4E97100419796 /* SourceView.swift in Sources */,
 				3F3AE29B25D4E9EE00419796 /* IPControll.swift in Sources */,
-				3F3AE29825D4E9B500419796 /* SystemInfo.swift in Sources */,
+				3F3AE29825D4E9B500419796 /* SystemInfoView.swift in Sources */,
 				3F6333C625CE03560028F8D3 /* bravia_swiftApp.swift in Sources */,
 				3F3AE2A425D4EB0800419796 /* Source.swift in Sources */,
 				3F3AE29E25D4EACB00419796 /* Volume.swift in Sources */,
